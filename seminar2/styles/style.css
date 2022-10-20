@@ -1,0 +1,14 @@
+body {
+    background: rgb(214, 212, 212);
+    /* Цвет фона */
+    color: rgb(22, 22, 22);
+    /* Цвет текста */
+    font-size: 120%;
+    font-weight: 500;
+    text-indent: 30px;
+}
+
+.center-pic {
+    display: block;
+    margin: 0 auto;
+}
