@@ -12,3 +12,9 @@ body {
     display: block;
     margin: 0 auto;
 }
+
+.line_sp {
+    line-height: 20pt;
+}
+
+/* шрифт 12 пунктов */
